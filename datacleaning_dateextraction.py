@@ -61,9 +61,6 @@ for i, event in enumerate(data):
 	DAYOFWEEK.append(startdayofweek)
 	SEVERITY.append(abs(severtiy))
 
-
-
-
 print(HOURS)
 print(DAYOFWEEK)
 print(SEVERITY)
